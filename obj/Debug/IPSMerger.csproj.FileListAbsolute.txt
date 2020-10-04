@@ -1,0 +1,7 @@
+D:\Users\moonl\source\repos\IPSMerger\bin\Debug\IPSMerger.exe.config
+D:\Users\moonl\source\repos\IPSMerger\bin\Debug\IPSMerger.exe
+D:\Users\moonl\source\repos\IPSMerger\bin\Debug\IPSMerger.pdb
+D:\Users\moonl\source\repos\IPSMerger\obj\Debug\IPSMerger.csprojAssemblyReference.cache
+D:\Users\moonl\source\repos\IPSMerger\obj\Debug\IPSMerger.csproj.CoreCompileInputs.cache
+D:\Users\moonl\source\repos\IPSMerger\obj\Debug\IPSMerger.exe
+D:\Users\moonl\source\repos\IPSMerger\obj\Debug\IPSMerger.pdb
