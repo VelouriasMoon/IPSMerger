@@ -1,6 +1,0 @@
-D:\Users\moonl\source\repos\IPSMerger\bin\Release\IPSMerger.exe.config
-D:\Users\moonl\source\repos\IPSMerger\bin\Release\IPSMerger.exe
-D:\Users\moonl\source\repos\IPSMerger\bin\Release\IPSMerger.pdb
-D:\Users\moonl\source\repos\IPSMerger\obj\Release\IPSMerger.csproj.CoreCompileInputs.cache
-D:\Users\moonl\source\repos\IPSMerger\obj\Release\IPSMerger.exe
-D:\Users\moonl\source\repos\IPSMerger\obj\Release\IPSMerger.pdb

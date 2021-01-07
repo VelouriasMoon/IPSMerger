@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IPSMerger": {
+      "commandName": "Project",
+      "commandLineArgs": "code.ips Voice.ips"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\moonl\source\repos\IPSMerger\bin\Release\netcoreapp3.1\IPSMerger.exe
+C:\Users\moonl\source\repos\IPSMerger\bin\Release\netcoreapp3.1\IPSMerger.deps.json
+C:\Users\moonl\source\repos\IPSMerger\bin\Release\netcoreapp3.1\IPSMerger.runtimeconfig.json
+C:\Users\moonl\source\repos\IPSMerger\bin\Release\netcoreapp3.1\IPSMerger.runtimeconfig.dev.json
+C:\Users\moonl\source\repos\IPSMerger\bin\Release\netcoreapp3.1\IPSMerger.dll
+C:\Users\moonl\source\repos\IPSMerger\bin\Release\netcoreapp3.1\IPSMerger.pdb
+C:\Users\moonl\source\repos\IPSMerger\obj\Release\netcoreapp3.1\IPSMerger.csproj.CoreCompileInputs.cache
+C:\Users\moonl\source\repos\IPSMerger\obj\Release\netcoreapp3.1\IPSMerger.AssemblyInfoInputs.cache
+C:\Users\moonl\source\repos\IPSMerger\obj\Release\netcoreapp3.1\IPSMerger.AssemblyInfo.cs
+C:\Users\moonl\source\repos\IPSMerger\obj\Release\netcoreapp3.1\IPSMerger.dll
+C:\Users\moonl\source\repos\IPSMerger\obj\Release\netcoreapp3.1\IPSMerger.pdb
+C:\Users\moonl\source\repos\IPSMerger\obj\Release\netcoreapp3.1\IPSMerger.genruntimeconfig.cache
